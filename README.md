@@ -10,7 +10,7 @@
 ## Решение № 1. Наследование
 
 ```
-lass Student:
+class Student:
     def __init__(self, name, surname, gender):
         self.name = name
         self.surname = surname
